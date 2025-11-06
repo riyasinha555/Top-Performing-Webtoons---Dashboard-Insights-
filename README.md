@@ -5,7 +5,7 @@ The analysis was performed using Power BI and data downloaded from kaggle.
 
 ---
 
-## 🧠 Key Insights
+##  Key Insights
 
 ### 1. Genre Performance
 - **Romance** dominates with over **20B views**, showing strong emotional connection.
@@ -15,7 +15,7 @@ The analysis was performed using Power BI and data downloaded from kaggle.
 ### 2. Weekly Engagement
 - **Peak days:** Sunday → Tuesday  
 - **Lowest:** Friday & Saturday  
-💡 *Strategy:* Launch new episodes or events on **Sundays** for maximum exposure.
+   *Strategy:* Launch new episodes or events on **Sundays** for maximum exposure.
 
 ### 3. Most Subscribed Webtoons
 | Rank | Title | Subscribers |
@@ -30,11 +30,11 @@ The analysis was performed using Power BI and data downloaded from kaggle.
 
 ### 4. Creator Insights
 - Top authors have 5M+ subscribers across series.  
-💡 *Opportunity:* Build **creator profiles and fan engagement tools** to leverage creator loyalty.
+ *Opportunity:* Build **creator profiles and fan engagement tools** to leverage creator loyalty.
 
 ---
 
-## 🎯 Strategic Recommendations
+##  Strategic Recommendations
 
 | Focus Area | Action | Expected Impact |
 |-------------|---------|----------------|
@@ -45,14 +45,14 @@ The analysis was performed using Power BI and data downloaded from kaggle.
 
 ---
 
-## 📈 Tools Used
+##  Tools Used
 - **Power BI Desktop** – for visual dashboards  
 - **Excel / CSV** – data preparation  
 - **SQL** – preprocessing & analysis  
 
 ---
 
-## 💡 Hidden Insights
+##  Hidden Insights
 1. Romance drives retention; Fantasy drives discovery.  
 2. Sunday is the global engagement peak — use for major launches.  
 3. Mid-tier creators lack exposure — use AI-based “You Might Also Like” suggestions.  
@@ -60,11 +60,11 @@ The analysis was performed using Power BI and data downloaded from kaggle.
 
 ---
 
-## 🖼️ Dashboard Preview
+##  Dashboard Preview
 
-![Dashboard Preview](images/Webtoon Dashboard.png)
+![Dashboard Preview](images/Webtoon Dashboard.jpg)
 
 ---
 
-## 📬 Conclusion
+##  Conclusion
 This analysis identifies actionable opportunities to help **Webtoon** attract more users, increase retention, and empower creators through data-driven decisions.
