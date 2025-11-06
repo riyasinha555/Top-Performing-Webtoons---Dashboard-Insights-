@@ -62,7 +62,7 @@ The analysis was performed using Power BI and data downloaded from kaggle.
 
 ##  Dashboard Preview
 
-![Dashboard Preview](Visuals/Webtoon Dashboard.jpg)
+![Dashboard Preview](Visuals/Webtoon_Dashboard.jpg)
 
 ---
 
