@@ -1,13 +1,11 @@
 select * from webtoon.data;
 
-
 update data
 SET genre = "SCI-FI" 
 WHERE genre = "SF";
 
 select * from webtoon.data
 where title is null;
-
 
 /*to make a copy of the data for backup*/
 
@@ -20,12 +18,14 @@ select * from data_copy;
 -- data analysis by sql
 
 -- books by genre
+
 select genre, count(*) from
 webtoon.data
 group by genre;
 
 -- checking if daily pass have hands in total likes given by users. 
 -- same for subscribers, ratings, views
+
 select daily_pass, sum(likes) total_likes, sum(views) total_views, sum(subscribers) total_subscribers from webtoon.data
 group by daily_pass;
 
@@ -36,7 +36,6 @@ group by genre
 order by avg_rating desc;
 
 -- correlation between update day and views and rating
--- issueuuuuuuuueeeueuue
 
 select weekdays, sum(views) total_views, avg(views) avg_views
 from webtoon.data
@@ -67,14 +66,6 @@ select genre, count(title) total_webtoons
 from webtoon.data
 group by genre
 having total_webtoons >=5;
-
-
-
-
-
-
-
-
 
 
 
